@@ -28,7 +28,7 @@
 
 #Android 单元测试工具  
 * <Font size = "5">Robolectric</font>  
-  可以直接运行在JVM上，无需android环境。
+  实现了一套JVM能运行的Android代码，可以在JVM上运行android相关的代码，无需android运行环境。
 * <Font size = "5">Mock框架</font>   
   适用于测试对象依赖度较高而需要解除依赖的场景。  
 * <Font size = "5">Monkey</font>     
