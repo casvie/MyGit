@@ -1,0 +1,43 @@
+#Android Studio 性能检测工具  
+
+* <Font size="5">TraceView</font>  
+	查看某段操作时间内，程序执行的全部方法及执行时间、执行次数。可调试卡顿问题。
+*  <Font size="5">Link</font>  
+	静态测试工具，扫描和检查代码中可能存在的问题。不是检查异常或者BUG，而是优化代码。
+*  <Font size="5">Android Monitor(Memory项)</font>  
+	当前操作带来的内存的使用及变化情况。如果短时间内变化很大，说明存在内存抖动问题。  
+*  <Font size="5">Heap</font>  
+	内存快照，查看对象的内存使用情况。通过内存回收操作前后的对比，检测内存泄露问题。  
+	也可以将内存使用情况Dump成hprof格式文件，使用<Font color="red">MAT</font>工具进行详细分析。
+*  <Font size="5">Allocation Tracker</font>  
+	追踪一段时间内存的分配情况，详细列出每个数据类型内存分配的栈信息。 
+*  <Font size="5">Networking Traffic Tool</font>  
+	查看网络请求的时间，每次请求的数据量等信息。
+
+---------------------------  
+
+#其他工具  
+  
+*  LeakCanary：检测内存泄露的工具，代码量非常庞大或者偶尔出现内存问题的情况下非常好用。
+*  ProGuard：代码混淆工具，还能够优化代码，去除冗余代码。
+*  LitePal：Sqlite数据库的开源项目。
+*  JobScheduler：google推出的性能优化工具(参见Android性能优化典范)。
+
+---------------------------------------
+
+
+#Android 单元测试工具  
+* <Font size = "5">Robolectric</font>  
+  可以直接运行在JVM上，无需android环境。
+* <Font size = "5">Mock框架</font>   
+  适用于测试对象依赖度较高而需要解除依赖的场景。  
+* <Font size = "5">Monkey</font>     
+  Android提供的系统工具。它向系统发送伪随机的用户事件流，进行压力测试。
+	
+		 
+
+  
+  
+  
+
+
