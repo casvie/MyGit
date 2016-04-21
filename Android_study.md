@@ -28,8 +28,9 @@
 
 #Android 单元测试工具  
 * <Font size = "5">Robolectric</font>  
-  实现了一套JVM能运行的Android代码，可以在JVM上运行android相关的代码，无需android运行环境。
-* <Font size = "5">Mock框架</font>   
+  实现了一套JVM能运行的Android代码，可以在JVM上运行android相关的代码，无需android运行环境。  
+  [Android单元测试框架Robolectric3.0介绍(一)](http://www.jianshu.com/p/9d988a2f8ff7)	
+* <Font size = "5">Mock框架(Mockito)</font>   
   适用于测试对象依赖度较高而需要解除依赖的场景。  
 * <Font size = "5">Monkey</font>     
   Android提供的系统工具。它向系统发送伪随机的用户事件流，进行压力测试。
@@ -38,6 +39,9 @@
 -----------------------
 * [git使用教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [git管理Android Studio项目教程](http://www.wfuyu.com/technology/22499.html)
+
+-----------------------
+* [程序员必读书单](http://lucida.me/blog/developer-reading-list/)
 	
 		 
 
