@@ -37,6 +37,7 @@
 
 -----------------------
 * [git使用教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [git管理Android Studio项目教程](http://www.wfuyu.com/technology/22499.html)
 	
 		 
 
