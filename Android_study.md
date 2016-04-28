@@ -33,7 +33,8 @@
 * <Font size = "5">Mock框架(Mockito)</font>   
   适用于测试对象依赖度较高而需要解除依赖的场景。  
 * <Font size = "5">Monkey</font>     
-  Android提供的系统工具。它向系统发送伪随机的用户事件流，进行压力测试。
+  Android提供的系统工具。它向系统发送伪随机的用户事件流，进行压力测试。  
+  [Android Monkey测试介绍](http://www.jikexueyuan.com/course/1609_1.html)
 
 
 -----------------------
