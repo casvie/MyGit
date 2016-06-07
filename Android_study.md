@@ -38,8 +38,6 @@
 
 
 -----------------------
-<<<<<<< cef801b8ced08a65dcc52e1f6a7641ed2cc5a3e5
-=======
 # 技术网站
 * [SegmentFault](https://segmentfault.com)
 * [推酷](http://www.tuicool.com)
@@ -48,7 +46,6 @@
 * [CSDN](http://www.csdn.net) 
 
 -----------------------
->>>>>>> 技术网站
 * [git使用教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [git管理Android Studio项目教程](http://www.wfuyu.com/technology/22499.html)
 
