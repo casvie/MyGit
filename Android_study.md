@@ -44,13 +44,14 @@
 * [伯乐在线](http://blog.jobbole.com)
 * [开源中国](http://www.oschina.net)
 * [CSDN](http://www.csdn.net) 
+* [Android开发工具](http://www.androiddevtools.cn)
 
 -----------------------
 * [git使用教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [git管理Android Studio项目教程](http://www.wfuyu.com/technology/22499.html)
 
 -----------------------
-* [程序员必读书单](http://lucida.me/blog/developer-reading-list/)
+* [程序员必读书单](http://lucida.me/blog/developer-reading-list/)  
 	
 		 
 
