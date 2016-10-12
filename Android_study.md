@@ -60,9 +60,12 @@
 * [SegmentFault](https://segmentfault.com)
 * [推酷](http://www.tuicool.com)
 * [伯乐在线](http://blog.jobbole.com)
+* [简书](http://www.jianshu.com)
 * [开源中国](http://www.oschina.net)
-* [CSDN](http://www.csdn.net) 
+* [CSDN](http://www.csdn.net)
 * [Android开发工具](http://www.androiddevtools.cn)
+* [慕课网](http://www.imooc.com)
+
 
 
 ----------------------------------------
