@@ -65,8 +65,7 @@
 * [CSDN](http://www.csdn.net)
 * [Android开发工具](http://www.androiddevtools.cn)
 * [慕课网](http://www.imooc.com)
-
-
+* [稀土掘金](http://gold.xitu.io)
 
 ----------------------------------------
 * [git使用教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -75,8 +74,10 @@
 
 ----------------------------------------
 * [程序员必读书单](http://lucida.me/blog/developer-reading-list/)  
-	
-		 
+
+---------------------------------------
+* [程序员技术练级攻略](http://coolshell.cn/articles/4990.html)
+
 
   
   
