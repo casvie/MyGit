@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/white"
+              android:gravity="center_horizontal"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/umeng_dialog_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="温馨提示"
+        android:textColor="@android:color/black"
+        android:textSize="17sp"/>
+
+    <ImageView
+        android:id="@+id/umeng_dialog_iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@mipmap/umeng_icon_warn"/>
+
+    <TextView
+        android:id="@+id/umeng_dialog_tv_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="23dp"
+        android:layout_marginRight="23dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/black"
+        android:textSize="17sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="36dp"
+        android:background="@color/umeng_socialize_divider"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/umeng_dialog_tv_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="返回"
+            android:textColor="@color/umeng_socialize_text_share_content"
+            android:textSize="17sp"/>
+
+        <LinearLayout
+            android:id="@+id/umeng_dialog_layout_confirm"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/umeng_socialize_divider"/>
+
+            <TextView
+                android:id="@+id/umeng_dialog_tv_confirm"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="确定"
+                android:textColor="@color/umeng_socialize_themecolor"
+                android:textSize="17sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
